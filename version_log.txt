@@ -1,0 +1,2 @@
+CCRP Framework v1.2 — Compiled October 2025
+Includes finalized README.md, methodology documentation, and Tri-AI audit compliance.
